@@ -118,6 +118,7 @@ vim.lsp.enable({
 	"basedpyright", -- Python Server
 	"ruff",         -- Python Linter/Formatter
 	"nixd",         -- Nix
+  "qmlls",        -- QML
 })
 
 -- Autocomplete with tab
